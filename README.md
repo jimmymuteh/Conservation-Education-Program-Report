@@ -1,7 +1,6 @@
 # Conservation Education Program Briefing & School Incentive Tracker
 An automated monitoring, evaluation, and donor storytelling tool built for education and conservation programs working across partner schools. It turns school-level participation and safety records into a dated, plain-language HTML briefing ready for internal team reviews, printing, or forwarding to donors.
 ![Conservation Education Briefing — 2026-11-16](Conservation-Education-Briefing-—-2026-11-16-11-16-2026_09_27_AM.jpg)
-
 ## What This Tool Solves
 Program officers and field coordinators collect valuable school and outdoor-learning data, yet leadership and donors rarely have time to dig through raw spreadsheets. This pipeline automatically:
 1. **Identifies top-performing schools** to support fair, data-backed incentive decisions (such as park visits and field lab trips).
